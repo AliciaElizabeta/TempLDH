@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println("Changed World");
+        logger.log("Hello World");
+        logger.log("Changed World");
     }
 }
