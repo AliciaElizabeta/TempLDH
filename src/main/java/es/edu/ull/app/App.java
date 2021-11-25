@@ -1,4 +1,6 @@
 package es.edu.ull.app;
+import java.util.logging.Level;
+import java.lang.System.Logger.Level;
 
 /**
  * Hello world!
